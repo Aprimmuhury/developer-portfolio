@@ -49,3 +49,15 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience-area {
+    margin: 2%;
+}
+
+.foot {
+    color: crimson;
+    padding-left: 35%;
+    font-size: larger;
+    font-family: 'Italianno', cursive;
+    font-family: 'Poppins', sans-serif;
+}
