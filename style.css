@@ -30,6 +30,21 @@ h1 {
     width: 100%;
 }
 
+.experience-item {
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 2%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    border-left: 7px solid salmon;
+}
+
+#baby {
+    border-left: 7px solid blue;
+}
+
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -52,12 +67,22 @@ h1 {
 
 .experience-area {
     margin: 2%;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+
 }
 
-.foot {
-    color: crimson;
-    padding-left: 35%;
-    font-size: larger;
-    font-family: 'Italianno', cursive;
-    font-family: 'Poppins', sans-serif;
+.lion {
+    text-align: center;
+    font-size: large;
+    background: #111
+}
+
+.adi {
+    color: darkred;
+}
+
+.das {
+    color: white;
 }
